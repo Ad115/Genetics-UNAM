@@ -23,7 +23,7 @@ Command-line arguments:
 		If present, returns the base at that position, or dies with
 		error if the mutation is outside the boundaries of the gene.
 	
-	-h, --help
+	-h, --help (optional)
 		Show this text and exit.
 	
 Author: Andrés García García @ Nov 2016.
