@@ -1,5 +1,5 @@
 ## Usage
-
+```
 Usage: ./get_gene_sequence.pl --gene=<gene_name> [--flanking=<flankingbases>] [--mutation_position=<position>] [--help]
 
 Example: get_gene_sequence.pl -g MT-ATP6 -p 8993 -f 20
@@ -26,6 +26,7 @@ Command-line arguments:
 	-h, --help (optional)
 		Show this text and exit.
 	
+```
 Author: Andrés García García @ Nov 2016.
 
  The script is written in Perl and use BioPerl and the Ensembl Perl API, detailed instructions to install those are in the [**REQUIREMENTS_INSTALL_README.md**](https://github.com/Ad115/ICGC-data-parser/blob/develop/REQUIREMENTS_INSTALL_README.md) file.
