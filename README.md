@@ -26,7 +26,8 @@ Command-line arguments:
 	-h, --help (optional)
 		Show this text and exit.
 	
-```
+
 Author: Andrés García García @ Nov 2016.
+```
 
  The script is written in Perl and use BioPerl and the Ensembl Perl API, detailed instructions to install those are in the [**REQUIREMENTS_INSTALL_README.md**](https://github.com/Ad115/Genetics-UNAM/REQUIREMENTS_INSTALL_README.md) file.
