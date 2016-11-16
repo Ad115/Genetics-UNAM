@@ -29,4 +29,4 @@ Command-line arguments:
 ```
 Author: Andrés García García @ Nov 2016.
 
- The script is written in Perl and use BioPerl and the Ensembl Perl API, detailed instructions to install those are in the [**REQUIREMENTS_INSTALL_README.md**](https://github.com/Ad115/ICGC-data-parser/blob/develop/REQUIREMENTS_INSTALL_README.md) file.
+ The script is written in Perl and use BioPerl and the Ensembl Perl API, detailed instructions to install those are in the [**REQUIREMENTS_INSTALL_README.md**](https://github.com/Ad115/Genetics-UNAM/REQUIREMENTS_INSTALL_README.md) file.
