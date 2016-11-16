@@ -1,8 +1,4 @@
 #! /usr/bin/env perl
-=begin
-
-
-=cut
 
 my $doc_str = <<END;
 
